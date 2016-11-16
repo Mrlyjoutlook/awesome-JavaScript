@@ -11,7 +11,7 @@
 
 ## 官方网站
 
-- [Imuutable.js]() 自己整理的Imuutable.js使用方法
+- [Imuutable.js](https://github.com/Mrlyjoutlook/awesome-JavaScript/tree/master/Immutable) 自己整理的Imuutable.js使用方法
 - [ECMAScript 6](http://es6.ruanyifeng.com/) 阮一峰老师 ES6入门
 - [ReactJs](http://reactjs.cn/react/docs/getting-started-zh-CN.html) 现在此网站半英文半中文...
 - [前端资源库](https://www.awesomes.cn/) 一个很不错的收集前端相关资源的网站，可以看到最新的框架和库。
