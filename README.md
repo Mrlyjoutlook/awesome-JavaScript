@@ -25,5 +25,5 @@
 ##例子
 
 ##文章
-- [react es7 组件的最佳实践](https://github.com/xitu/gold-miner/blob/master/TODO/our-best-practices-for-writing-react-components.md)
+- [react es7 组件的最佳实践](https://github.com/xitu/gold-miner/blob/master/TODO/our-best-practices-for-writing-react-components.md) 特别推荐
 - [什么时候在React组件中使用shouldComponentUpdate?](http://www.infoq.com/cn/news/2016/07/react-shouldComponentUpdate) 对我在学习react中有点影响和感触。
